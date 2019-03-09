@@ -37,6 +37,6 @@
           p:viewName="index" />
     <bean name="index2Controller"
           class="org.springframework.web.servlet.mvc.ParameterizableViewController"
-          p:viewName="index2" />
+          p:viewName="/client/index2" />
     
 </beans>
